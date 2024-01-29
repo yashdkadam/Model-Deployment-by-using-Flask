@@ -54,3 +54,5 @@ def predict():
 # set port into 5000 and debug is True
 if __name__ == '__main__':
 	app.run(port=5000, debug=True)
+
+	
